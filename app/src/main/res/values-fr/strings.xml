@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="banner_title">SantéChat</string>
+    <string name="loginText">S\'identifier</string>
+    <string name="loginHint">Exemple@exemple.com</string>
+    <string name="passwordHint">Mot de Passe</string>
+    <string name="loginButtonText">Connexion</string>
+    <string name="forgotText">Forgot Username/Password?</string>
+    <string name="signInWithText">Se connecter avec:</string>
+</resources>

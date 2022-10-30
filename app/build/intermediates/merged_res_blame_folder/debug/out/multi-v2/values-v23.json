@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "org.tensorflow.lite.examples.bertqa.app-mergeDebugResources-3:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\abdul\\.gradle\\caches\\transforms-3\\6c1a1ea20d4d72079e3cb35b86f854c6\\transformed\\appcompat-1.1.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Danyoh\\.gradle\\caches\\transforms-3\\09131d3f2c2b1bda86dab790e6c5d463\\transformed\\appcompat-1.1.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -12,10 +12,18 @@
                         "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
                         "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
                         "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2326,2550,2665,2772,2885",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2321,2545,2660,2767,2880,3110"
                     }
                 },
                 {
-                    "source": "C:\\Users\\abdul\\.gradle\\caches\\transforms-3\\c7a6a5154de09f4b5ea040e00fab592e\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Danyoh\\.gradle\\caches\\transforms-3\\e40825eeaa6b51196edfb6ae948b8f34\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -27,10 +35,10 @@
                     "to": {
                         "startLines": "48",
                         "startColumns": "4",
-                        "startOffsets": "3407",
+                        "startOffsets": "3115",
                         "endLines": "50",
                         "endColumns": "12",
-                        "endOffsets": "3552"
+                        "endOffsets": "3260"
                     }
                 }
             ]

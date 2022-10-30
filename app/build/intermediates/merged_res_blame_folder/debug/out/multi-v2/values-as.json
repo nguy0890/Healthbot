@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-as\\values-as.xml",
+            "outputFile": "org.tensorflow.lite.examples.bertqa.app-mergeDebugResources-3:/values-as/values-as.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\abdul\\.gradle\\caches\\transforms-3\\03ad512eceb880cc6483d976fbad44ac\\transformed\\core-1.1.0\\res\\values-as\\values-as.xml",
+                    "source": "C:\\Users\\Danyoh\\.gradle\\caches\\transforms-3\\1cfeff434958e4dcf65e92530a7df2ff\\transformed\\core-1.1.0\\res\\values-as\\values-as.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\abdul\\.gradle\\caches\\transforms-3\\6c1a1ea20d4d72079e3cb35b86f854c6\\transformed\\appcompat-1.1.0\\res\\values-as\\values-as.xml",
+                    "source": "C:\\Users\\Danyoh\\.gradle\\caches\\transforms-3\\09131d3f2c2b1bda86dab790e6c5d463\\transformed\\appcompat-1.1.0\\res\\values-as\\values-as.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

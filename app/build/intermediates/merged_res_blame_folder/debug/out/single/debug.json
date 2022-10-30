@@ -1,130 +1,166 @@
 [
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable_banner_lite.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable\\banner_lite.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable_ic_ask_active.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable\\ic_ask_active.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-xxhdpi_icn_chevron_down.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-xxhdpi\\icn_chevron_down.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banner_lite.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable\\banner_lite.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_up.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_up.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ask_inactive.xml.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable\\ic_ask_inactive.xml"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_qa_question_chip.xml.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\layout\\tfe_qa_question_chip.xml"
+        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/drawable-v24_twitter.png.flat",
+        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/drawable-v24/twitter.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable_ic_baseline_password_24.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable\\ic_baseline_password_24.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\layout_tfe_qa_question_chip.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\layout\\tfe_qa_question_chip.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_qa_activity_qa.xml.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\layout\\tfe_qa_activity_qa.xml"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-v24_background.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-v24\\background.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_down.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_down.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable_ic_ask_inactive.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable\\ic_ask_inactive.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-xxhdpi_tfl2_logo_dark.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-xxhdpi\\tfl2_logo_dark.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable\\ic_baseline_person_24.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/layout_activity_login.xml.flat",
+        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ask_active.xml.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable\\ic_ask_active.xml"
+        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/drawable-v24_facebook.png.flat",
+        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/drawable-v24/facebook.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo_dark.png.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo_dark.png"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_qa_activity_dataset_list.xml.flat",
-        "source": "C:\\Users\\abdul\\Downloads\\examples-master\\examples-master\\lite\\examples\\bert_qa\\android\\app\\src\\main\\res\\layout\\tfe_qa_activity_dataset_list.xml"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-xxhdpi_tfl2_logo.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-xxhdpi\\tfl2_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/drawable-v24_google.png.flat",
+        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/drawable-v24/google.png"
+    },
+    {
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\layout_tfe_qa_activity_qa.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\layout\\tfe_qa_activity_qa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-xxhdpi\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\layout_tfe_qa_activity_dataset_list.xml.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\layout\\tfe_qa_activity_dataset_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }
 ]

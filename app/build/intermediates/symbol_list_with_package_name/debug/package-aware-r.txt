@@ -1029,6 +1029,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable background
 drawable banner_lite
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -1044,8 +1045,12 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable facebook
+drawable google
 drawable ic_ask_active
 drawable ic_ask_inactive
+drawable ic_baseline_password_24
+drawable ic_baseline_person_24
 drawable ic_launcher
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -1073,6 +1078,7 @@ drawable tfl2_logo
 drawable tfl2_logo_dark
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable twitter
 id ALT
 id CTRL
 id FUNCTION
@@ -1188,6 +1194,7 @@ id filled
 id fixed
 id footer_view
 id forever
+id forgotPassword
 id ghost_view
 id gone
 id group_divider
@@ -1197,6 +1204,7 @@ id home
 id homeAsUp
 id icon
 id icon_group
+id icons
 id ifRoom
 id image
 id info
@@ -1210,6 +1218,7 @@ id line1
 id line3
 id listMode
 id list_item
+id loginButton
 id masked
 id message
 id middle
@@ -1232,6 +1241,7 @@ id parallax
 id parent
 id parentPanel
 id parent_matrix
+id password
 id percent
 id pin
 id progress_circular
@@ -1266,6 +1276,9 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signIn
+id signInText
+id signInWith
 id smallLabel
 id snackbar_action
 id snackbar_text
@@ -1381,6 +1394,8 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_login
+layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -1442,19 +1457,26 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string appbar_scrolling_view_behavior
+string banner_title
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_pattern
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string forgotText
 string hide_bottom_view_on_scroll_behavior
+string loginButtonText
+string loginHint
+string loginText
 string mtrl_chip_close_icon_content_description
+string passwordHint
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string signInWithText
 string status_bar_notification_info_overflow
 string tfe_qa_app_name
 string tfe_qa_ask_question
