@@ -25,11 +25,22 @@
         android:layout_height="wrap_content"
         android:text="@string/Daniel"
         android:textColor="#2f5751"
-        android:textSize="50dp"
+        android:textSize="30dp"
         android:textStyle="bold"
         android:gravity="center"
         android:layout_below="@id/aboutText"
         android:layout_marginTop="10dp"
         android:drawableRight="@drawable/danielsdog"/>
+
+    <TextView
+        android:id="@+id/andrewDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/signInText"
+        android:gravity="center"
+        android:text="@string/Andrew"
+        android:textColor="#2f5751"
+        android:textSize="30dp"
+        android:textStyle="bold" />
 
 </RelativeLayout>
