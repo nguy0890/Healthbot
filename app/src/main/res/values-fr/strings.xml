@@ -12,4 +12,9 @@
 
     <!--MainActivity-->
     <string name="aboutButton">À Propos de Nous</string>
+    <string name="historyButton">historyButton</string>
+
+    <!--HistoryActivity-->
+    <string name="historyText">Diagnosis History</string>
+    <string name="add_diagnosis_txt">Add Diagnosis</string>
 </resources>

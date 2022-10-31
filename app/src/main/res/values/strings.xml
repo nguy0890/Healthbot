@@ -19,4 +19,9 @@
 
     <!--MainActivity-->
     <string name="aboutButton">About Us</string>
+    <string name="historyButton">Diagnosis History</string>
+
+    <!--HistoryActivity-->
+    <string name="historyText">Diagnosis History</string>
+    <string name="add_diagnosis_txt">Add Diagnosis</string>
 </resources>
