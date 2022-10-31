@@ -13,4 +13,12 @@
         android:text="@string/aboutButton"
         android:layout_centerHorizontal="true"/>
 
+    <Button
+        android:id="@+id/historyButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/historyButton"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/aboutButton"/>
+
 </RelativeLayout>

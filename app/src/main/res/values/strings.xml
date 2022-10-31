@@ -6,6 +6,7 @@
     <string name="tfe_qa_text_query" translatable="false">Text query</string>
     <string name="tfe_qa_ask_question" translatable="false">Ask question</string>
     <string name="Daniel" translatable="false">Daniel Nguyen</string>
+    <string name="Andrew" translatable="false">Andrew Best</string>
 
     <!--LoginActivity -->
     <string name="banner_title">HealthChat</string>
@@ -19,4 +20,9 @@
 
     <!--MainActivity-->
     <string name="aboutButton">About Us</string>
+    <string name="historyButton">Diagnosis History</string>
+
+    <!--HistoryActivity-->
+    <string name="historyText">Diagnosis History</string>
+    <string name="add_diagnosis_txt">Add Diagnosis</string>
 </resources>

@@ -3,6 +3,7 @@ package org.tensorflow.lite.examples.bertqa;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.util.Log;
 import android.os.Bundle;
 import android.widget.Button;
@@ -22,7 +23,13 @@ public class MainActivity extends AppCompatActivity {
 
         //Declare button
         final Button aboutButton = findViewById(R.id.aboutButton);
+        final Button historyButton = findViewById(R.id.historyButton);
 
+        // add to diagnosis history
+//        SharedPreferences dh_sp = getSharedPreferences("history_sp", MODE_PRIVATE);
+//        SharedPreferences.Editor s_prefs_edit = dh_sp.edit();
+//        s_prefs_edit.putString("Diagnosis_1", "Diagnosis 1");
+//        s_prefs_edit.commit();
 
         //AboutUs button on click
         aboutButton.setOnClickListener(new View.OnClickListener() {
@@ -30,6 +37,16 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Log.i(ACTIVITY_NAME, "User clicked About Us Button");
                 Intent intent = new Intent(MainActivity.this, AboutUs.class);
+                startActivityForResult(intent, 10);
+            }
+        });
+
+        //History button on click
+        historyButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Log.i(ACTIVITY_NAME, "User clicked History Button");
+                Intent intent = new Intent(MainActivity.this, HistoryActivity.class);
                 startActivityForResult(intent, 10);
             }
         });
