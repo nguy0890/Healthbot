@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable_banner_lite.png.flat",
-        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable\\banner_lite.png"
-    },
-    {
         "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable_ic_ask_active.xml.flat",
         "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable\\ic_ask_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable_banner_lite.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable\\banner_lite.png"
     },
     {
         "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -14,6 +14,10 @@
     {
         "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-xxhdpi_icn_chevron_down.png.flat",
         "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-xxhdpi\\icn_chevron_down.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/drawable-v24_danielsdog.png.flat",
+        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/drawable-v24/danielsdog.png"
     },
     {
         "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-hdpi_ic_launcher.png.flat",
@@ -52,10 +56,6 @@
         "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/drawable-v24_twitter.png.flat",
-        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/drawable-v24/twitter.png"
-    },
-    {
         "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable_ic_baseline_password_24.xml.flat",
         "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable\\ic_baseline_password_24.xml"
     },
@@ -72,8 +72,16 @@
         "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-v24\\background.png"
     },
     {
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-v24_twitter.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-v24\\twitter.png"
+    },
+    {
         "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-v24_google.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-v24\\google.png"
     },
     {
         "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -108,12 +116,12 @@
         "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\layout\\activity_login.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/layout_activity_login.xml.flat",
-        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/layout/activity_login.xml"
+        "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-v24_facebook.png.flat",
+        "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\drawable-v24\\facebook.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/drawable-v24_facebook.png.flat",
-        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/drawable-v24/facebook.png"
+        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/layout_activity_login.xml.flat",
+        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/layout/activity_login.xml"
     },
     {
         "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -140,16 +148,20 @@
         "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/drawable-v24_google.png.flat",
-        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/drawable-v24/google.png"
-    },
-    {
         "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\layout_tfe_qa_activity_qa.xml.flat",
         "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\layout\\tfe_qa_activity_qa.xml"
     },
     {
         "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-main-7:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/layout_activity_about_us.xml.flat",
+        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.bertqa.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "org.tensorflow.lite.examples.bertqa.app-main-7:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\Danyoh\\.gradle\\daemon\\7.4\\org.tensorflow.lite.examples.bertqa.app-merged_res-5:\\drawable-xxhdpi_icn_chevron_up.png.flat",

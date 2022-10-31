@@ -5,6 +5,9 @@
     <string name="tfe_qa_you_might_want_to_ask" translatable="false">You might want to ask?</string>
     <string name="tfe_qa_text_query" translatable="false">Text query</string>
     <string name="tfe_qa_ask_question" translatable="false">Ask question</string>
+    <string name="Daniel" translatable="false">Daniel Nguyen</string>
+
+    <!--LoginActivity -->
     <string name="banner_title">HealthChat</string>
     <string name="loginText">Sign In</string>
     <string name="loginHint">Example@example.com</string>
@@ -12,4 +15,8 @@
     <string name="loginButtonText">Login</string>
     <string name="forgotText">Forgot Username/Password?</string>
     <string name="signInWithText">Sign in with:</string>
+    <string name="loginError">Incorrect Username/Password</string>
+
+    <!--MainActivity-->
+    <string name="aboutButton">About Us</string>
 </resources>

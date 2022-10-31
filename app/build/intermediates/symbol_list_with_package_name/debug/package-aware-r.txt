@@ -1039,6 +1039,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable danielsdog
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1085,6 +1086,8 @@ id FUNCTION
 id META
 id SHIFT
 id SYM
+id aboutButton
+id aboutText
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -1219,6 +1222,7 @@ id line3
 id listMode
 id list_item
 id loginButton
+id loginError
 id masked
 id message
 id middle
@@ -1394,6 +1398,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_about_us
 layout activity_login
 layout activity_main
 layout custom_dialog
@@ -1429,6 +1434,7 @@ layout tfe_qa_question_chip
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
+string Daniel
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1456,6 +1462,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string aboutButton
 string appbar_scrolling_view_behavior
 string banner_title
 string bottom_sheet_behavior
@@ -1466,6 +1473,7 @@ string fab_transformation_sheet_behavior
 string forgotText
 string hide_bottom_view_on_scroll_behavior
 string loginButtonText
+string loginError
 string loginHint
 string loginText
 string mtrl_chip_close_icon_content_description

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--LoginActivity-->
     <string name="banner_title">SantéChat</string>
     <string name="loginText">S\'identifier</string>
     <string name="loginHint">Exemple@exemple.com</string>
@@ -7,4 +8,8 @@
     <string name="loginButtonText">Connexion</string>
     <string name="forgotText">Forgot Username/Password?</string>
     <string name="signInWithText">Se connecter avec:</string>
+    <string name="loginError">Nom D\'utilisateur/Mot de Passe Incorrect</string>
+
+    <!--MainActivity-->
+    <string name="aboutButton">À Propos de Nous</string>
 </resources>

@@ -20,6 +20,13 @@
         android:testOnly="true"
         android:theme="@style/AppTheme.QA" >
         <activity
+            android:name="org.tensorflow.lite.examples.bertqa.AboutUs"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="org.tensorflow.lite.examples.bertqa.LoginActivity"
             android:exported="true" >
             <meta-data
@@ -50,8 +57,7 @@
         <activity
             android:name="org.tensorflow.lite.examples.bertqa.ui.DatasetListActivity"
             android:exported="false"
-            android:theme="@style/AppTheme.QA.NoTitleActivity" >
-        </activity>
+            android:theme="@style/AppTheme.QA.NoTitleActivity" />
     </application>
 
 </manifest>
