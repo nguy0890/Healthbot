@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         //Declare button
         final Button aboutButton = findViewById(R.id.aboutButton);
         final Button historyButton = findViewById(R.id.historyButton);
+        final Button chatButton = findViewById(R.id.chatButton);
 
         // add to diagnosis history
 //        SharedPreferences dh_sp = getSharedPreferences("history_sp", MODE_PRIVATE);
@@ -47,6 +48,17 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Log.i(ACTIVITY_NAME, "User clicked History Button");
                 Intent intent = new Intent(MainActivity.this, HistoryActivity.class);
+                startActivityForResult(intent, 10);
+            }
+        });
+
+
+        //Chat button on click
+        chatButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Log.i(ACTIVITY_NAME, "User clicked Chat Button");
+                Intent intent = new Intent(MainActivity.this, ChatActivity.class);
                 startActivityForResult(intent, 10);
             }
         });

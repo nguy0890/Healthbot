@@ -1141,9 +1141,11 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id add_diagnosis_btn
 id alertTitle
 id all
 id always
+id andrewDesc
 id app_bar_image
 id ask_button
 id async
@@ -1157,6 +1159,9 @@ id center
 id center_horizontal
 id center_vertical
 id chains
+id chatButton
+id chatList
+id chatText
 id checkbox
 id checked
 id chip
@@ -1179,6 +1184,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id diagnosis_text
 id dialog_button
 id dimensions
 id direct
@@ -1203,6 +1209,9 @@ id gone
 id group_divider
 id groups
 id hint_text_view
+id historyButton
+id historyText
+id history_listView
 id home
 id homeAsUp
 id icon
@@ -1210,6 +1219,8 @@ id icon_group
 id icons
 id ifRoom
 id image
+id imageView
+id imageView2
 id info
 id invisible
 id italic
@@ -1225,6 +1236,7 @@ id loginButton
 id loginError
 id masked
 id message
+id message_text
 id middle
 id mini
 id mtrl_child_content_container
@@ -1276,6 +1288,7 @@ id search_src_text
 id search_voice_btn
 id select_dialog_listview
 id selected
+id sendbutton
 id shortcut
 id showCustom
 id showHome
@@ -1399,8 +1412,12 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_about_us
+layout activity_chat
+layout activity_history
 layout activity_login
 layout activity_main
+layout chat_row_incoming
+layout chat_row_outgoing
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -1416,6 +1433,7 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout history_diagnosis_item
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
@@ -1434,7 +1452,9 @@ layout tfe_qa_question_chip
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
+string Andrew
 string Daniel
+string SendButton
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1463,15 +1483,20 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string aboutButton
+string add_diagnosis_txt
 string appbar_scrolling_view_behavior
 string banner_title
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_pattern
+string chatButton
+string defaultResponse
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string forgotText
 string hide_bottom_view_on_scroll_behavior
+string historyButton
+string historyText
 string loginButtonText
 string loginError
 string loginHint

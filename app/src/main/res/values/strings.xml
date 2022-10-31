@@ -21,8 +21,14 @@
     <!--MainActivity-->
     <string name="aboutButton">About Us</string>
     <string name="historyButton">Diagnosis History</string>
+    <string name="chatButton">Chat Button</string>
 
     <!--HistoryActivity-->
     <string name="historyText">Diagnosis History</string>
     <string name="add_diagnosis_txt">Add Diagnosis</string>
+
+    <!--ChatActivity-->
+    <string name="SendButton">Send</string>
+    <string name="defaultResponse">You are in imminent danger! Please call (***) ***-****</string>
+
 </resources>

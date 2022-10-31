@@ -569,7 +569,9 @@
     <integer name="mtrl_tab_indicator_anim_duration_ms">250</integer>
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="Andrew" translatable="false">Andrew Best</string>
     <string name="Daniel" translatable="false">Daniel Nguyen</string>
+    <string name="SendButton">Send</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -598,15 +600,20 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="aboutButton">About Us</string>
+    <string name="add_diagnosis_txt">Add Diagnosis</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="banner_title">HealthChat</string>
     <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="chatButton">Chat Button</string>
+    <string name="defaultResponse">You are in imminent danger! Please call (***) ***-****</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="forgotText">Forgot Username/Password?</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="historyButton">Diagnosis History</string>
+    <string name="historyText">Diagnosis History</string>
     <string name="loginButtonText">Login</string>
     <string name="loginError">Incorrect Username/Password</string>
     <string name="loginHint">Example@example.com</string>

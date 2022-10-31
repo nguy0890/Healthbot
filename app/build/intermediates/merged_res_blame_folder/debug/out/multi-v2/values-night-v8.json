@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "org.tensorflow.lite.examples.bertqa.app-mergeDebugResources-3:/values-night-v8/values-night-v8.xml",
+            "outputFile": "org.tensorflow.lite.examples.bertqa.app-mergeDebugResources-12:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Danyoh\\.gradle\\caches\\transforms-3\\09131d3f2c2b1bda86dab790e6c5d463\\transformed\\appcompat-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\alect\\.gradle\\caches\\transforms-3\\09131d3f2c2b1bda86dab790e6c5d463\\transformed\\appcompat-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

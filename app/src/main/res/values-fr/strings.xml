@@ -13,8 +13,13 @@
     <!--MainActivity-->
     <string name="aboutButton">À Propos de Nous</string>
     <string name="historyButton">historyButton</string>
+    <string name="chatButton">Bouton de Discussion</string>
 
     <!--HistoryActivity-->
     <string name="historyText">Diagnosis History</string>
     <string name="add_diagnosis_txt">Add Diagnosis</string>
+
+    <!--ChatActivity-->
+    <string name="SendButton">Envoyer</string>
+    <string name="defaultResponse">Vous êtes en danger imminent ! Appelez s\'il vous plaît (***) ***-****</string>
 </resources>

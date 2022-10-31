@@ -20,6 +20,20 @@
         android:testOnly="true"
         android:theme="@style/AppTheme.QA" >
         <activity
+            android:name="org.tensorflow.lite.examples.bertqa.ChatActivity"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="org.tensorflow.lite.examples.bertqa.HistoryActivity"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="org.tensorflow.lite.examples.bertqa.AboutUs"
             android:exported="false" >
             <meta-data
