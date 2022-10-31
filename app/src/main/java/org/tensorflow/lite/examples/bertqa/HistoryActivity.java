@@ -22,7 +22,6 @@ import java.util.Map;
 public class HistoryActivity extends AppCompatActivity {
     protected static final String ACTIVITY_NAME = "HistoryActivity";
     protected ArrayList<String> diagnosis_history = new ArrayList<String>();
-    protected String current_item = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,7 +40,11 @@ public class HistoryActivity extends AppCompatActivity {
 
         SharedPreferences dh_sp = getSharedPreferences("history_sp", MODE_PRIVATE);
 
+        // array containing all shared preference keys
         Map<String, ?> keys = dh_sp.getAll();
+
+        // if no keys (no saved data) then set text to "No Previous Diagnosis",
+        // else, loop through keys
         if (keys.size() == 0) {
             diagnosis_history.add("No Previous Diagnosis");
             diagnosisAdapter.notifyDataSetChanged(); //this restarts the process of getCount()/
@@ -53,7 +56,8 @@ public class HistoryActivity extends AppCompatActivity {
             }
         }
 
-        // temporary button to add diagnosis to diagnosis history
+        // temporary button to add diagnosis to shared preferences and reload activity
+        // in final iteration, this will be done automatically in chat-bot activity
         temp_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -88,7 +92,6 @@ public class HistoryActivity extends AppCompatActivity {
             Log.i(ACTIVITY_NAME, "in getView()");
             LayoutInflater inflater = HistoryActivity.this.getLayoutInflater();
             View result = inflater.inflate(R.layout.history_diagnosis_item, null); ;
-
             TextView message = (TextView)result.findViewById(R.id.diagnosis_text);
             message.setText(   getItem(position)  ); // get the string at position
             return result;
