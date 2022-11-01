@@ -2,7 +2,9 @@ package org.tensorflow.lite.examples.bertqa;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.util.Log;
@@ -32,9 +34,9 @@ public class HistoryActivity extends AppCompatActivity {
         HistoryAdapter diagnosisAdapter = new HistoryAdapter(this);
         ListView history_listView = findViewById(R.id.history_listView);
         // temporary button to add diagnosis to diagnosis history
-        Button temp_button = findViewById(R.id.add_diagnosis_btn);
-        // get date for diagnosis
-        Date currentTime = Calendar.getInstance().getTime();
+        Button clear_hist = findViewById(R.id.clear_hist_btn);
+
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
 
         history_listView.setAdapter(diagnosisAdapter);
 
@@ -56,16 +58,32 @@ public class HistoryActivity extends AppCompatActivity {
             }
         }
 
-        // temporary button to add diagnosis to shared preferences and reload activity
-        // in final iteration, this will be done automatically in chat-bot activity
-        temp_button.setOnClickListener(new View.OnClickListener() {
+        clear_hist.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                SharedPreferences.Editor s_prefs_edit = dh_sp.edit();
-                s_prefs_edit.putString(currentTime.toString(), "Diagnosis Description");
-                s_prefs_edit.commit();
-                finish();
-                startActivity(getIntent());
+                AlertDialog dialog;
+                SharedPreferences.Editor dh_sp_edit = dh_sp.edit();
+                builder.setTitle(R.string.delete_history);
+                // Add the buttons
+                builder.setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        // User clicked OK button
+                        Log.i("Diagnosis History", "Confirm Deletion");
+                        dh_sp_edit.clear();
+                        dh_sp_edit.commit();
+                        finish();
+                        startActivity(getIntent());
+                    }
+                });
+                builder.setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        // User cancelled the dialog
+                        Log.i("Diagnosis History", "Cancelled");
+                    }
+                });
+                // Create the AlertDialog
+                dialog = builder.create();
+                dialog.show();
             }
         });
     }

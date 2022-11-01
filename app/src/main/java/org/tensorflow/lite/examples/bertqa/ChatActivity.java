@@ -4,6 +4,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -17,6 +18,8 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
 
 public class ChatActivity extends AppCompatActivity {
     protected static final String ACTIVITY_NAME = "ChatWindow";
@@ -56,7 +59,19 @@ public class ChatActivity extends AppCompatActivity {
                 }
             }
         });
+
+        this.addHistory();
     }
+
+    protected void addHistory(){
+        SharedPreferences dh_sp = getSharedPreferences("history_sp", MODE_PRIVATE);
+        Date currentTime = Calendar.getInstance().getTime();
+        SharedPreferences.Editor dh_sp_edit = dh_sp.edit();
+
+        dh_sp_edit.putString(currentTime.toString(), "Diagnosis Description");
+        dh_sp_edit.commit();
+    }
+
 
     public class ChatAdapter extends ArrayAdapter<String> {
 

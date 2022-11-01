@@ -27,14 +27,14 @@
         android:textSize="20dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
-        android:layout_above="@+id/add_diagnosis_btn"/>
+        android:layout_above="@+id/clear_hist_btn"/>
 
     <!--Temporary Button -->
     <Button
-        android:id="@+id/add_diagnosis_btn"
+        android:id="@+id/clear_hist_btn"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:text="@string/add_diagnosis_txt"
+        android:text="@string/clear_hist"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         />

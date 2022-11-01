@@ -17,7 +17,9 @@
 
     <!--HistoryActivity-->
     <string name="historyText">Diagnosis History</string>
-    <string name="add_diagnosis_txt">Add Diagnosis</string>
+    <string name="clear_hist">Clear History?</string>
+    <string name="delete_history">Are you sure you want to clear your diagnosis history?</string>
+
 
     <!--ChatActivity-->
     <string name="SendButton">Envoyer</string>
