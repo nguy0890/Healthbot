@@ -5,6 +5,8 @@
     <string name="tfe_qa_you_might_want_to_ask" translatable="false">You might want to ask?</string>
     <string name="tfe_qa_text_query" translatable="false">Text query</string>
     <string name="tfe_qa_ask_question" translatable="false">Ask question</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="cancel" translatable="false">Cancel</string>
     <string name="Daniel" translatable="false">Daniel Nguyen</string>
     <string name="Andrew" translatable="false">Andrew Best</string>
     <string name="Arvind" translatable="false">Arvind Sahota</string>
@@ -28,7 +30,8 @@
 
     <!--HistoryActivity-->
     <string name="historyText">Diagnosis History</string>
-    <string name="add_diagnosis_txt">Add Diagnosis</string>
+    <string name="clear_hist">Clear History?</string>
+    <string name="delete_history">Are you sure you want to clear your diagnosis history?</string>
 
     <!--ChatActivity-->
     <string name="SendButton">Send</string>
