@@ -11,7 +11,7 @@
         android:id="@+id/aboutText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="150dp"
+        android:layout_alignParentTop="true"
         android:background="#80ffffff"
         android:gravity="center"
         android:text="@string/aboutButton"
@@ -29,8 +29,7 @@
         android:textStyle="bold"
         android:gravity="center"
         android:layout_below="@id/aboutText"
-        android:layout_marginTop="10dp"
-        android:drawableRight="@drawable/danielsdog"/>
+        android:layout_marginTop="10dp" />
 
     <TextView
         android:id="@+id/andrewDesc"
@@ -75,6 +74,13 @@
         android:textColor="#2f5751"
         android:textSize="30dp"
         android:textStyle="bold"/>
+    
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/danielsdog"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/alecDesc"/>
 
 
 </RelativeLayout>
