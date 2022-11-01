@@ -7,6 +7,9 @@
     <string name="tfe_qa_ask_question" translatable="false">Ask question</string>
     <string name="Daniel" translatable="false">Daniel Nguyen</string>
     <string name="Andrew" translatable="false">Andrew Best</string>
+    <string name="Arvind" translatable="false">Arvind Sahota</string>
+    <string name="Johnson" translatable="false">Johnson Huynh</string>
+    <string name="Alec" translatable="false">Alec Tarrant</string>
 
     <!--LoginActivity -->
     <string name="banner_title">HealthChat</string>
