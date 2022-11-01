@@ -31,6 +31,22 @@
                 android:value="" />
         </activity>
         <activity
+            android:name=".EditProfiles"
+            android:exported="false"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".SharedPreferencesActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".AboutUs"
             android:exported="false"
             android:parentActivityName=".MainActivity">
