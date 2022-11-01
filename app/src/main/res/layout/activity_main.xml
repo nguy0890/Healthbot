@@ -29,4 +29,12 @@
         android:layout_below="@+id/historyButton"
         android:text="@string/chatButton" />
 
+    <Button
+        android:id="@+id/profileButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/profileButton"
+        android:layout_below="@+id/chatButton"
+        android:layout_centerHorizontal="true"/>
+
 </RelativeLayout>

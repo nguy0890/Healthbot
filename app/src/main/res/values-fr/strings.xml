@@ -6,7 +6,7 @@
     <string name="loginHint">Exemple@exemple.com</string>
     <string name="passwordHint">Mot de Passe</string>
     <string name="loginButtonText">Connexion</string>
-    <string name="forgotText">Forgot Username/Password?</string>
+    <string name="forgotText">Nom d\'utilisateur/mot de passe oublié ?</string>
     <string name="signInWithText">Se connecter avec:</string>
     <string name="loginError">Nom D\'utilisateur/Mot de Passe Incorrect</string>
 
@@ -14,11 +14,12 @@
     <string name="aboutButton">À Propos de Nous</string>
     <string name="historyButton">historyButton</string>
     <string name="chatButton">Bouton de Discussion</string>
+    <string name="profileButton">Profil de l\'utilisateur</string>
 
     <!--HistoryActivity-->
-    <string name="historyText">Diagnosis History</string>
-    <string name="clear_hist">Clear History?</string>
-    <string name="delete_history">Are you sure you want to clear your diagnosis history?</string>
+    <string name="historyText">Historique du diagnostic</string>
+    <string name="clear_hist">Histoire claire?</string>
+    <string name="delete_history">Voulez-vous vraiment effacer l\'historique de vos diagnostics ?</string>
 
 
     <!--ChatActivity-->

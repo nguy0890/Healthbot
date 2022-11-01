@@ -27,6 +27,7 @@
     <string name="aboutButton">About Us</string>
     <string name="historyButton">Diagnosis History</string>
     <string name="chatButton">Chat Button</string>
+    <string name="profileButton">User Profile</string>
 
     <!--HistoryActivity-->
     <string name="historyText">Diagnosis History</string>
@@ -40,7 +41,6 @@
     <!--    EditProfiles   -->
     <string name="edit_info">Edit Info</string>
     <string name="exit">Exit</string>
-    <string name="ok">Ok</string>
     <!--    SharedPreferencesActivity   -->
     <string name="name">Name</string>
     <string name="name_hint">Enter your name</string>
@@ -51,7 +51,6 @@
     <string name="gender_female">Female</string>
     <string name="gender_unknown">undetermined</string>
     <string name="save">Save</string>
-    <string name="cancel">Cancel</string>
     <string name="preference_name">DefaultEmail</string><!--do not change file name-->
     <string name="key_name">name</string>
     <string name="key_email">email</string>
