@@ -8,6 +8,10 @@
         android:minSdkVersion="26"
         android:targetSdkVersion="29" />
 
+    <uses-permission
+        android:name="android.permission.IMAGE_CAPTURE"
+        android:required="true" />
+
     <application
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -20,28 +24,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme.QA" >
         <activity
-            android:name="org.tensorflow.lite.examples.bertqa.ChatActivity"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name="org.tensorflow.lite.examples.bertqa.HistoryActivity"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name="org.tensorflow.lite.examples.bertqa.AboutUs"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name="org.tensorflow.lite.examples.bertqa.LoginActivity"
+            android:name="org.tensorflow.lite.examples.bertqa.splash_screen"
             android:exported="true" >
             <meta-data
                 android:name="android.app.lib_name"
@@ -52,6 +35,67 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".MainActivity" />
+
+        <activity
+            android:name="org.tensorflow.lite.examples.bertqa.ChatActivity"
+            android:exported="false"
+            android:parentActivityName="org.tensorflow.lite.examples.bertqa.MainActivity" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="org.tensorflow.lite.examples.bertqa.HistoryActivity"
+            android:exported="false"
+            android:parentActivityName="org.tensorflow.lite.examples.bertqa.MainActivity" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="org.tensorflow.lite.examples.bertqa.EditProfiles"
+            android:exported="false"
+            android:parentActivityName="org.tensorflow.lite.examples.bertqa.MainActivity" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="org.tensorflow.lite.examples.bertqa.SharedPreferencesActivity"
+            android:exported="false"
+            android:parentActivityName="org.tensorflow.lite.examples.bertqa.MainActivity" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="org.tensorflow.lite.examples.bertqa.AboutUs"
+            android:exported="false"
+            android:parentActivityName="org.tensorflow.lite.examples.bertqa.MainActivity" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="org.tensorflow.lite.examples.bertqa.EditProfiles"
+            android:exported="false"
+            android:parentActivityName="org.tensorflow.lite.examples.bertqa.MainActivity" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="org.tensorflow.lite.examples.bertqa.LoginActivity"
+            android:exported="true"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
         </activity>
         <activity
             android:name="org.tensorflow.lite.examples.bertqa.MainActivity"

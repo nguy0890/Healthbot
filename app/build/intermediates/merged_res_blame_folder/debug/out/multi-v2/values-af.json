@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "org.tensorflow.lite.examples.bertqa.app-mergeDebugResources-12:/values-af/values-af.xml",
+            "outputFile": "org.tensorflow.lite.examples.bertqa.app-mergeDebugResources-3:/values-af/values-af.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alect\\.gradle\\caches\\transforms-3\\09131d3f2c2b1bda86dab790e6c5d463\\transformed\\appcompat-1.1.0\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\Danyoh\\.gradle\\caches\\transforms-3\\09131d3f2c2b1bda86dab790e6c5d463\\transformed\\appcompat-1.1.0\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alect\\.gradle\\caches\\transforms-3\\1cfeff434958e4dcf65e92530a7df2ff\\transformed\\core-1.1.0\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\Danyoh\\.gradle\\caches\\transforms-3\\1cfeff434958e4dcf65e92530a7df2ff\\transformed\\core-1.1.0\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
